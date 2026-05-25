@@ -10,3 +10,4 @@ Projects list:
 1. Command line contacts CRUD Application
 2. Student Grade Manager
 3. Inventory Management System
+4. Text-Based RPG Game
