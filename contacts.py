@@ -30,6 +30,8 @@ while True:
       print(f"{contact["name"]}, {contact["phone"]}, {contact["email"]}")
   if starting_input == "2":
     break
+  if starting_inpit == "4":
+    break
       
   if starting_input == "5":
       break
