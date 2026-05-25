@@ -6,3 +6,5 @@ Currently I am reviewing python as much as the syntax has been lost. These proje
 
 
 Projects list: 
+
+1. Command line contacts CRUD Application
